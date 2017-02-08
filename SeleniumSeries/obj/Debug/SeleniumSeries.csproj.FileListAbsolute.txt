@@ -1,0 +1,10 @@
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\SeleniumSeries.dll
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\SeleniumSeries.pdb
+C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.dll
+C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.pdb
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\Shouldly.dll
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.dll
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.Support.dll
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.xml
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.Support.xml
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\geckodriver.exe
