@@ -1,8 +1,7 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SeleniumSeries.Code;
 
-namespace SeleniumSeries.Tests
+namespace SeleniumSeries.Tests._001_Our_First_MsTest
 {
     [TestClass]
     public class OurFirstMsTest
