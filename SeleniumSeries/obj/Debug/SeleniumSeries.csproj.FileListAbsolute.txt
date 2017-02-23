@@ -6,6 +6,9 @@ C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.dll
 C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.Support.dll
 C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.xml
 C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\WebDriver.Support.xml
-C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.csprojResolveAssemblyReference.cache
 C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.dll
 C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.pdb
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\chromedriver.exe
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\IEDriverServer.exe
+C:\Dev\SeleniumSeries\SeleniumSeries\bin\Debug\MicrosoftWebDriver.exe
+C:\Dev\SeleniumSeries\SeleniumSeries\obj\Debug\SeleniumSeries.csprojResolveAssemblyReference.cache

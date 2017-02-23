@@ -12,6 +12,7 @@ namespace SeleniumSeries.Tests._004_Our_First_Selenium_Test
     {
         [TestCategory("WEB")]
         [TestCategory("FAST")]
+        [TestCategory("CHAPTER-1")]
         [TestMethod]
         public void VisitTheSeleniumWebsite_CheckTheTitleIsPresent_AndMentionsSelenium()
         {
@@ -33,6 +34,7 @@ namespace SeleniumSeries.Tests._004_Our_First_Selenium_Test
 
         [TestCategory("WEB")]
         [TestCategory("FAST")]
+        [TestCategory("CHAPTER-1")]
         [TestMethod]
         public void VisitTheSeleniumWebsite_NavigateTheMenu_ToTheDocumentationPage()
         {
@@ -50,7 +52,7 @@ namespace SeleniumSeries.Tests._004_Our_First_Selenium_Test
 
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(5));
             wait.Until(drv => drv.Title.Contains("Documentation"));
-           
+
             //Assert
             driver.Url.ShouldBe("http://www.seleniumhq.org/docs/");
             driver.Title.ShouldContain("Selenium Documentation");
