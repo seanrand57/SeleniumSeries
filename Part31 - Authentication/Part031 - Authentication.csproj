@@ -7,8 +7,8 @@
     <ProjectGuid>{75BC5D63-F2CE-4843-9F85-5F067F78737A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Part31___Authentication</RootNamespace>
-    <AssemblyName>Part31 - Authentication</AssemblyName>
+    <RootNamespace>Part031___Authentication</RootNamespace>
+    <AssemblyName>Part031 - Authentication</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
