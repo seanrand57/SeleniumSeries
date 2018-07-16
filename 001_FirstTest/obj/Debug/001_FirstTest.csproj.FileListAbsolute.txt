@@ -1,0 +1,14 @@
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\001_FirstTest.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\001_FirstTest.pdb
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\obj\Debug\001_FirstTest.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\obj\Debug\001_FirstTest.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\obj\Debug\001_FirstTest.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\obj\Debug\001_FirstTest.dll
+C:\Dev\Personal\SeleniumSeries\001_FirstTest\obj\Debug\001_FirstTest.pdb

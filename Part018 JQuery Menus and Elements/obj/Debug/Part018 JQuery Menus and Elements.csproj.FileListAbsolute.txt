@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Part018 JQuery Menus and Elements.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Part018 JQuery Menus and Elements.pdb
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\obj\Debug\Part018 JQuery Menus and Elements.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\obj\Debug\Part018 JQuery Menus and Elements.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\obj\Debug\Part018 JQuery Menus and Elements.dll
+C:\Dev\Personal\SeleniumSeries\Part018 JQuery Menus and Elements\obj\Debug\Part018 JQuery Menus and Elements.pdb

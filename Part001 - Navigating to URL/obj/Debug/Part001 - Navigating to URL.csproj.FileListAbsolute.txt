@@ -1,0 +1,17 @@
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Part001 - Navigating to URL.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Part001 - Navigating to URL.pdb
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\obj\Debug\Part001 - Navigating to URL.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\obj\Debug\Part001 - Navigating to URL.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\obj\Debug\Part001 - Navigating to URL.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\obj\Debug\Part001 - Navigating to URL.dll
+C:\Dev\Personal\SeleniumSeries\Part001 - Navigating to URL\obj\Debug\Part001 - Navigating to URL.pdb

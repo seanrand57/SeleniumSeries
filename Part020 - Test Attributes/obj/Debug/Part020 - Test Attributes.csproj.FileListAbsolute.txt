@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Part020 - Test Attributes.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Part020 - Test Attributes.pdb
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\obj\Debug\Part020 - Test Attributes.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\obj\Debug\Part020 - Test Attributes.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\obj\Debug\Part020 - Test Attributes.dll
+C:\Dev\Personal\SeleniumSeries\Part020 - Test Attributes\obj\Debug\Part020 - Test Attributes.pdb

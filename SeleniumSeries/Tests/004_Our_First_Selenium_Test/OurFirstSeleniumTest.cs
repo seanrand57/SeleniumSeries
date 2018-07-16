@@ -19,7 +19,7 @@ namespace SeleniumSeries.Tests._004_Our_First_Selenium_Test
             // Arrange
             var driver = new FirefoxDriver();
             driver.Manage().Window.Maximize();
-            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+         //   driver.Manage().Timeouts().ImplicitWait.Seconds.;
 
             //Act
             driver.Navigate().GoToUrl("http://www.seleniumhq.org/");
@@ -41,8 +41,8 @@ namespace SeleniumSeries.Tests._004_Our_First_Selenium_Test
             // Arrange
             var driver = new FirefoxDriver();
             driver.Manage().Window.Maximize();
-            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
-            driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(10));
+         //   driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
+           // driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(10));
 
             //Act
             driver.Navigate().GoToUrl("http://www.seleniumhq.org/");

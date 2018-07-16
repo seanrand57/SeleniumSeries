@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Part31 - Authentication.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Part31 - Authentication.pdb
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\obj\Debug\Part31 - Authentication.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\obj\Debug\Part31 - Authentication.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\obj\Debug\Part31 - Authentication.dll
+C:\Dev\Personal\SeleniumSeries\Part31 - Authentication\obj\Debug\Part31 - Authentication.pdb

@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Part008 - Actions.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Part008 - Actions.pdb
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\obj\Debug\Part008 - Actions.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\obj\Debug\Part008 - Actions.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\obj\Debug\Part008 - Actions.dll
+C:\Dev\Personal\SeleniumSeries\Part008 - Actions\obj\Debug\Part008 - Actions.pdb

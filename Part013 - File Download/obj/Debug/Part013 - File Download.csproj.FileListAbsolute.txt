@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Part013 - File Download.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Part013 - File Download.pdb
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\obj\Debug\Part013 - File Download.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\obj\Debug\Part013 - File Download.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\obj\Debug\Part013 - File Download.dll
+C:\Dev\Personal\SeleniumSeries\Part013 - File Download\obj\Debug\Part013 - File Download.pdb

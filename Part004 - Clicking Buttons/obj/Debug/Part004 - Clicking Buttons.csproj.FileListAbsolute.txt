@@ -1,0 +1,16 @@
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Part004 - Clicking Buttons.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Part004 - Clicking Buttons.pdb
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Shouldly.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\WebDriver.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\bin\Debug\WebDriver.xml
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\obj\Debug\Part004 - Clicking Buttons.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\obj\Debug\Part004 - Clicking Buttons.csproj.CopyComplete
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\obj\Debug\Part004 - Clicking Buttons.dll
+C:\Dev\Personal\SeleniumSeries\Part004 - Clicking Buttons\obj\Debug\Part004 - Clicking Buttons.pdb
